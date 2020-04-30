@@ -1,7 +1,7 @@
-# scripts
+# movie scripts
 pty script
-This is a script.
+he went to movie
 Therefore this are my changes
-Ho Seh liao
+Bo Ho Seh liao
 
 jhg
